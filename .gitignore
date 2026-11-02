@@ -1,0 +1,7 @@
+# Gerados em tempo de execução
+cotacao.txt
+cotacoes.db
+cotacoes.db-*
+
+# Binários
+/bin/
